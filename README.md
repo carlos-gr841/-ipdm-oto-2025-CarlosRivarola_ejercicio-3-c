@@ -13,15 +13,8 @@ Este ejercicio forma parte del conjunto de problemas prácticos de Jetpack Compo
   - Texto alineado con `TextAlign.Justify`
   - Padding: `16dp` lateral en el primero y completo en el segundo.
 
----
 
-## 🖼️ Captura de pantalla
 
-> ![Artículo Compose](screenshots/c8c16974d0aef074.png)
-
-_Asegurate de incluir esta imagen en la carpeta `screenshots` del repositorio._
-
----
 
 ## 📦 Recursos usados
 
